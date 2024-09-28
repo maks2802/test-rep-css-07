@@ -1,0 +1,24 @@
+body {
+    text-align: justify;
+}
+
+p {
+    border: 1px solid black;
+}
+
+.first-text {
+    margin: 2em;
+}
+
+.second-text {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.third-text {
+    width: 50%;
+}
+
+.fourth-text {
+    width: 400px;
+}
